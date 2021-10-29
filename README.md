@@ -19,7 +19,7 @@ Languages and tools I use: <br>
 
 📫 How to reach me: 
 <br>
-LinkedIn: https://www.linkedin.com/in/kevinchoyang/
+LinkedIn: https://www.linkedin.com/in/kevinchoyang/ <br>
 Email: kevinyang1223@gmail.com
 
 
