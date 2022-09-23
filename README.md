@@ -5,7 +5,7 @@
 
 Welcome to my Github page!
 
-I'm a civil engineering graduate from the University of Toronto who is interested in Transportation, Data, and making Music!
+I'm a Data Science grad student at the University of San Francisco who is interested in Transportation, Data, and making Music!
 
 <br>
 Languages and tools I use: <br>
