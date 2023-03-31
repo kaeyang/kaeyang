@@ -7,11 +7,6 @@ Welcome to my Github page!
 
 I'm a Data Science grad student at the University of San Francisco who is interested in Transportation, Data, and making Music!
 
-<br>
-Languages and tools I use: <br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://www.pinclipart.com/picdir/middle/519-5199224_postgresql-logo-png-transparent-clipart.png"></code>
-<code><img height="20" src="https://image.pngaaa.com/718/1525718-middle.png"></code>
 <br><br>
 
 
