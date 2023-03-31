@@ -5,7 +5,7 @@
 
 Welcome to my Github page!
 
-I'm a Data Science grad student at the University of San Francisco who is interested in Transportation, Data, and making Music!
+I'm a Data Science grad student at the University of San Francisco who is interested in Data Science and making Music!
 
 <br><br>
 
@@ -15,7 +15,7 @@ I'm a Data Science grad student at the University of San Francisco who is intere
 📫 How to reach me: 
 <br>
 LinkedIn: https://www.linkedin.com/in/kevinchoyang/ <br>
-Email: kevinyang1223@gmail.com
+Email: k.chohsun.yang@gmail.com
 
 
 
