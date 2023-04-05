@@ -14,6 +14,7 @@ I'm a Data Science grad student at the University of San Francisco who is intere
 
 📫 How to reach me: 
 <br>
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 LinkedIn: https://www.linkedin.com/in/kevinchoyang/ <br>
 Email: k.chohsun.yang@gmail.com
 
