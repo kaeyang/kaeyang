@@ -5,7 +5,7 @@
 
 Welcome to my Github page!
 
-I am a student in the Master's of Science in Data Science program at the University of San Francisco, with work experience in civil engineering and computer vision. I am currently learning about MLOps, data engineering, and MongoDB. Furthermore, I am excited about applying these technologies and concepts to solve real-world problems.
+I am a student in the Master's of Science in Data Science program at the University of San Francisco, with work experience in project management and data science. I am currently learning about MLOps, data engineering, and MongoDB. Furthermore, I am excited about applying these technologies and concepts to solve real-world problems.
 
 
 <br><br>
