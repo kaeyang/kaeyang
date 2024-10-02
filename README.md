@@ -5,7 +5,7 @@
 
 Welcome to my Github page!
 
-I am a recent graduate of the Master's of Science in Data Science program at the University of San Francisco, with work experience in project management and data science. I am currently learning about MLOps, data engineering, and LLMS. Furthermore, I am excited about applying these technologies and concepts to solve real-world problems as a data scientist.
+I am a data scientist and graduate of the Master's of Science in Data Science program at the University of San Francisco, with work experience in project management and data science. I am currently learning about MLOps, data engineering, and LLMS. Furthermore, I am excited about applying these technologies and concepts to solve real-world problems as a data scientist.
 
 
 <br><br>
